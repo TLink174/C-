@@ -1,0 +1,14 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\bin\Debug\net8.0\Lab2.exe
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\bin\Debug\net8.0\Lab2.deps.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\bin\Debug\net8.0\Lab2.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\bin\Debug\net8.0\Lab2.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\Lab2.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\refint\Lab2.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\Lab2.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lab2\Lab2\obj\Debug\net8.0\ref\Lab2.dll

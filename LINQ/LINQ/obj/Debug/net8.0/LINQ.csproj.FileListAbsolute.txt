@@ -1,0 +1,4 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LINQ\LINQ\obj\Debug\net8.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LINQ\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LINQ\LINQ\obj\Debug\net8.0\LINQ.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LINQ\LINQ\obj\Debug\net8.0\LINQ.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\bin\Debug\net8.0\Lamda.exe
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\bin\Debug\net8.0\Lamda.deps.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\bin\Debug\net8.0\Lamda.runtimeconfig.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\bin\Debug\net8.0\Lamda.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\bin\Debug\net8.0\Lamda.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\Lamda.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\Lamda.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\Lamda.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\Lamda.csproj.CoreCompileInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\Lamda.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\refint\Lamda.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\Lamda.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\Lamda.genruntimeconfig.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Lamda\Lamda\obj\Debug\net8.0\ref\Lamda.dll

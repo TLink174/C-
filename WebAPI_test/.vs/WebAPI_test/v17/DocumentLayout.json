@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:controllers\\loaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\webapi_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:models\\loaimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:models\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9824C1-DAB1-4B33-9C9E-5C593D69B735}|WebAPI_test.csproj|solutionrelative:data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDbContext.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:44:34.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwDAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:07:44.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T14:33:48.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:35:34.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiModel.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Models\\LoaiModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoaiModel.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Models\\LoaiModel.cs",
+              "RelativeToolTip": "Models\\LoaiModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:48:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hanghoa.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Models\\Hanghoa.cs",
+              "RelativeDocumentMoniker": "Models\\Hanghoa.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Models\\Hanghoa.cs",
+              "RelativeToolTip": "Models\\Hanghoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:48:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoaisController.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Controllers\\LoaisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoaisController.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Controllers\\LoaisController.cs",
+              "RelativeToolTip": "Controllers\\LoaisController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:20:54.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Data\\HangHoa.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Data\\HangHoa.cs",
+              "RelativeToolTip": "Data\\HangHoa.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:39:18.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "Data\\Loai.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebAPI_test\\Data\\Loai.cs",
+              "RelativeToolTip": "Data\\Loai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:04:54.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

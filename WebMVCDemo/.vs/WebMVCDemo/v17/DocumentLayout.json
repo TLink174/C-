@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\webmvcdemo\\htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|solutionrelative:htmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\webmvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\webmvcdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\viewmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|solutionrelative:viewmodels\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\views\\product\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D2EF343-A884-4053-8627-6C127105E190}|WebMVCDemo.csproj|solutionrelative:views\\product\\searchbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T00:53:47.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlHelper.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\HtmlHelper.cs",
+              "RelativeDocumentMoniker": "HtmlHelper.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\HtmlHelper.cs",
+              "RelativeToolTip": "HtmlHelper.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T00:53:08.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T06:39:04.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:57:51.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\ViewModels\\UserAccount.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserAccount.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\ViewModels\\UserAccount.cs",
+              "RelativeToolTip": "ViewModels\\UserAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:45:41.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwBcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:58:10.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchById.cshtml",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Views\\Product\\SearchById.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\SearchById.cshtml",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WebMVCDemo\\Views\\Product\\SearchById.cshtml",
+              "RelativeToolTip": "Views\\Product\\SearchById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T14:14:15.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

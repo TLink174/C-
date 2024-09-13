@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WinFormsAppTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B88A3F-57AA-488F-8312-7DDB6638C4D3}|WinFormsAppTest\\WinFormsAppTest.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\winformsapptest\\winformsapptest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7B88A3F-57AA-488F-8312-7DDB6638C4D3}|WinFormsAppTest\\WinFormsAppTest.csproj|solutionrelative:winformsapptest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WinFormsAppTest\\WinFormsAppTest\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsAppTest\\Form1.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\WinFormsAppTest\\WinFormsAppTest\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsAppTest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T18:22:32.662Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

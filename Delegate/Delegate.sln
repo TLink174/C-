@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{51F36B92-5A23-4B60-8121-A66169ED39A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDelegate", "MultipleDelegate\MultipleDelegate.csproj", "{3BEF9C36-1A36-493B-AA53-0DE2C5397B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F36B92-5A23-4B60-8121-A66169ED39A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F36B92-5A23-4B60-8121-A66169ED39A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F36B92-5A23-4B60-8121-A66169ED39A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F36B92-5A23-4B60-8121-A66169ED39A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEF9C36-1A36-493B-AA53-0DE2C5397B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEF9C36-1A36-493B-AA53-0DE2C5397B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEF9C36-1A36-493B-AA53-0DE2C5397B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEF9C36-1A36-493B-AA53-0DE2C5397B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

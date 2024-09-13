@@ -1,0 +1,14 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\bin\Debug\net8.0\Strassen-Matrix-Multiplication.exe
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\bin\Debug\net8.0\Strassen-Matrix-Multiplication.deps.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\bin\Debug\net8.0\Strassen-Matrix-Multiplication.runtimeconfig.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\bin\Debug\net8.0\Strassen-Matrix-Multiplication.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\bin\Debug\net8.0\Strassen-Matrix-Multiplication.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\Strassen-Matrix-Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\Strassen-Matrix-Multiplication.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\Strassen-Matrix-Multiplication.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\Strassen-Matrix-Multiplication.csproj.CoreCompileInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\Strassen-Matrix-Multiplication.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\refint\Strassen-Matrix-Multiplication.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\Strassen-Matrix-Multiplication.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\Strassen-Matrix-Multiplication.genruntimeconfig.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Demo-Singleton\Strassen-Matrix-Multiplication\obj\Debug\net8.0\ref\Strassen-Matrix-Multiplication.dll

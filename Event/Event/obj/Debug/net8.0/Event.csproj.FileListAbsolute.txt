@@ -1,0 +1,14 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\bin\Debug\net8.0\Event.exe
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\bin\Debug\net8.0\Event.deps.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\bin\Debug\net8.0\Event.runtimeconfig.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\bin\Debug\net8.0\Event.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\bin\Debug\net8.0\Event.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\Event.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\Event.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\Event.csproj.CoreCompileInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\Event.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\refint\Event.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\Event.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\Event.genruntimeconfig.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Event\Event\obj\Debug\net8.0\ref\Event.dll

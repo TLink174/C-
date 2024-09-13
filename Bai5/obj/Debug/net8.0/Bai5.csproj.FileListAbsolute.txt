@@ -1,0 +1,14 @@
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\bin\Debug\net8.0\Bai5.exe
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\bin\Debug\net8.0\Bai5.deps.json
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\bin\Debug\net8.0\Bai5.runtimeconfig.json
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\bin\Debug\net8.0\Bai5.dll
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\bin\Debug\net8.0\Bai5.pdb
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfoInputs.cache
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\Bai5.AssemblyInfo.cs
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\Bai5.csproj.CoreCompileInputs.cache
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\Bai5.dll
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\refint\Bai5.dll
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\Bai5.pdb
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\Bai5.genruntimeconfig.cache
+D:\DaiHoc\NAM 3 - KI 2\CODE WEB - C#\src\Bai5\obj\Debug\net8.0\ref\Bai5.dll

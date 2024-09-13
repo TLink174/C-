@@ -1,0 +1,14 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\bin\Debug\net8.0\MultipleDelegate.exe
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\bin\Debug\net8.0\MultipleDelegate.deps.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\bin\Debug\net8.0\MultipleDelegate.runtimeconfig.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\bin\Debug\net8.0\MultipleDelegate.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\bin\Debug\net8.0\MultipleDelegate.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\MultipleDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\MultipleDelegate.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\MultipleDelegate.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\MultipleDelegate.csproj.CoreCompileInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\MultipleDelegate.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\refint\MultipleDelegate.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\MultipleDelegate.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\MultipleDelegate.genruntimeconfig.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\MultipleDelegate\obj\Debug\net8.0\ref\MultipleDelegate.dll

@@ -1,0 +1,14 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll

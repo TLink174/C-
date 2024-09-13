@@ -1,0 +1,14 @@
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\bin\Debug\net8.0\LAB3.exe
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\bin\Debug\net8.0\LAB3.deps.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\bin\Debug\net8.0\LAB3.runtimeconfig.json
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\bin\Debug\net8.0\LAB3.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\bin\Debug\net8.0\LAB3.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\LAB3.GeneratedMSBuildEditorConfig.editorconfig
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\LAB3.AssemblyInfoInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\LAB3.AssemblyInfo.cs
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\LAB3.csproj.CoreCompileInputs.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\LAB3.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\refint\LAB3.dll
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\LAB3.pdb
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\LAB3.genruntimeconfig.cache
+E:\NAM 3 - KI 2\CODE WEB - C#\src\LAB3\LAB3\obj\Debug\net8.0\ref\LAB3.dll

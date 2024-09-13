@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\EX1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D183FD12-237C-48C1-9AC6-50D90801316C}|..\\Bai6\\Bai6.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F8DA55-7D09-437F-BF5D-AF1BFE872B68}|..\\Bai5\\Bai5.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AB3538-EC3A-43E2-B4AF-27C8AAD1730E}|..\\Bai4\\Bai4.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D981396-D5C3-4874-BBE1-CD53DAFDAF5E}|..\\Bai3\\Bai3.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B825078-6891-409F-8CA8-2D45EFEE2955}|..\\Bai2\\Bai2.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EC641CE-C4B3-4E9D-ACD7-A2F643891960}|EX1.csproj|d:\\daihoc\\nam 3 - ki 2\\code web - c#\\src\\ex1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EC641CE-C4B3-4E9D-ACD7-A2F643891960}|EX1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai6\\Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai6\\Program.cs",
+              "RelativeToolTip": "..\\Bai6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:37:54.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai5\\Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai5\\Program.cs",
+              "RelativeToolTip": "..\\Bai5\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:36:08.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai4\\Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai4\\Program.cs",
+              "RelativeToolTip": "..\\Bai4\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:34:24.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai3\\Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai3\\Program.cs",
+              "RelativeToolTip": "..\\Bai3\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:32:30.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai2\\Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\Bai2\\Program.cs",
+              "RelativeToolTip": "..\\Bai2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:25:00.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\EX1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DaiHoc\\NAM 3 - KI 2\\CODE WEB - C#\\src\\EX1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:19:44.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
